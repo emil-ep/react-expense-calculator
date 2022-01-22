@@ -1,5 +1,4 @@
 import Expenses from "./components/Expenses";
-import NewExpenseItem from "./components/Expenses";
 
 function App() {
   const expenses = [
